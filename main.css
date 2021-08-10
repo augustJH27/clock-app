@@ -1,0 +1,19 @@
+.clock {
+    background: black;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.clock-time,
+.clock-ampm {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 40px;
+    color: #eeee;
+}
+
+.clock-time {
+    font-size: 48px;
+    color: red;
+}
